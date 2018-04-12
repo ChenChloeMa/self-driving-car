@@ -13,6 +13,7 @@ Kalman filters are the key mathematical tool for fusing together data. Implement
 
 > **3. C++ Primer:**  
 Review the key C++ concepts for implementing the Term 2 projects.
+Ref: [C++ Primer](https://faculty.psau.edu.sa/filedownload/doc-8-pdf-95bf5763251f491480a0c1e5b76a16d8-original.pdf).
 
 > **_4. Project: Extended Kalman Filters in C++:_**  
 **Extended Kalman filters are used by autonomous vehicle engineers to combine measurements from multiple sensors into a non-linear model. Building an EKF is an impressive skill to show an employer.**
