@@ -4,6 +4,16 @@
 " target="_blank"><img src="http://img.youtube.com/vi/f9z-eKD2xjk/0.jpg" 
 alt="Click to view Introduction Video" width="480" height="360" border="10" /></a></p>
 
+## My notes
+Bold title indicates completed section.
+
+`Course percentage completion: 0%`
+
+`Course velocity (weeks completed per week): 0 weeks/week`
+
+`Projected finish date: heat death`
+
+
 ## Term 1: Computer Vision and Deep Learning
 
 
